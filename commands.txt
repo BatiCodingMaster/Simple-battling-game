@@ -1,0 +1,8 @@
+endgame, exits the program
+restart, restarts the battle
+clear, clears console
+ps, prints player stats
+cdp, subtracts player health by the next input 
+cde, subtracts enemy health by the next input
+
+my english isnt perfect so i might've wrote grammarly incorrect sentences
